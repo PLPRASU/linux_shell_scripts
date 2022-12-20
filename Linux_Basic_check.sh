@@ -1,7 +1,6 @@
 #!/bin/sh
 echo -e "-------HOSTNAME-------"
 hostname -f
-uptime
 echo -e "\n-------Kernel version-------"
 uname -r
 echo -e "\n-------ROUTING TABLE-------"
